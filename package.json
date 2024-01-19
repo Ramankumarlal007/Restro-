@@ -1,0 +1,19 @@
+{
+  "name": "restro-app",
+  "version": "1.0.0",
+  "description": "creating a restro app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "restro"
+  ],
+  "author": "Raman",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
